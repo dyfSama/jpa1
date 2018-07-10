@@ -61,7 +61,7 @@ public class JPATest  {
         Person p = new Person();
         p.setAge(123);
         p.setBirth(new Date());
-        p.setName("诸葛小亮");
+        p.setName("诸葛小亮sdfdsf");
         p.setCreateTime(new Date());
 
 
